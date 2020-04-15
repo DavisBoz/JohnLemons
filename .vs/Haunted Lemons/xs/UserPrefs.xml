@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2A3C3531-1565-C559-6457-962D321662DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DotProduct.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DotProduct.cs" Line="19" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Haunted Lemons" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameEnding.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3930aac-e8b2-4472-9294-c0f04eb7850d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
